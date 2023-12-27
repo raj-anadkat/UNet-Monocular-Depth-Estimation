@@ -29,9 +29,9 @@ To train our depth estimation model, we experimented with various loss functions
 We tried various loss weight distributions and finally set the weights as 0.25 for L1 loss, 0.9 for SSIM Loss, and 0.6 for the Smoothness Loss.
 
 <p float="left">
-  <img src="https://github.com/raj-anadkat/UNet-Monocular-Depth-Estimation/assets/109377585/3abdf060-78f7-489d-b08d-1b5e005ab629" alt="img" width="500"/>
-  <img src="https://github.com/raj-anadkat/UNet-Monocular-Depth-Estimation/assets/109377585/4956ea6c-0dc0-4f87-bc8f-63712c39edba"alt="img" width="500"/>
-  <img src="https://github.com/raj-anadkat/UNet-Monocular-Depth-Estimation/assets/109377585/57a6fa77-68b0-4e68-8707-09e19b4a5f31" alt="curve" width="500"/>
+  <img src="https://github.com/raj-anadkat/UNet-Monocular-Depth-Estimation/assets/109377585/3abdf060-78f7-489d-b08d-1b5e005ab629" alt="img" height="500"/>
+  <img src="https://github.com/raj-anadkat/UNet-Monocular-Depth-Estimation/assets/109377585/4956ea6c-0dc0-4f87-bc8f-63712c39edba"alt="img" height="500"/>
+  <img src="https://github.com/raj-anadkat/UNet-Monocular-Depth-Estimation/assets/109377585/57a6fa77-68b0-4e68-8707-09e19b4a5f31" alt="img" height="500"/>
 </p>
 
 
